@@ -1,0 +1,30 @@
+body {
+	text-align: center;
+	background-color: #286;
+	font-size: 14px;
+	border: double 10px #893;
+}
+
+h1 {
+	font-weight: bold;
+	color: #BADA55;
+	font-size: 56px;
+}
+
+h3 {
+	font-weight: lighter;
+	font-size: 17px;
+}
+
+#win, #loss, #guessl, #letters {
+	width: 50px;
+	height: 50px;
+	margin: 0 auto;
+	border: dotted 5px #893;
+}
+
+.font {
+	font-family: 'Diplomata SC', cursive;
+	font-size: 40px;
+	color: #000;
+}
